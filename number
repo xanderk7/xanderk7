@@ -1,0 +1,8 @@
+def number(a,b):
+    num = a + b
+    if num > 5:
+        print("this is a high number.")
+    else:
+        print("this is a low number")
+
+number(2,4)
